@@ -3,3 +3,4 @@ Most of theses are basic task you complete when learning any new langauage and s
 
 Some of the links to the program task and descriptions can be seen in the links below:
 https://adriann.github.io/programming_problems.html
+https://edabit.com/challenges
