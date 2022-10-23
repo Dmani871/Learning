@@ -5,7 +5,6 @@ void addString(char string[],char concat[],int *counter){
     for (int i=0;string[i]!='\0';i++){
         concat[*counter]=string[i];
         (*counter)++;
-        printf("%d",*counter);
     }
 }
 
