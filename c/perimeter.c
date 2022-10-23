@@ -2,7 +2,6 @@
 
 int findPerimeter(int length,int width){
     return length*2+width*2;
-
 }
 void clearInput(){
     char c ='\0';
